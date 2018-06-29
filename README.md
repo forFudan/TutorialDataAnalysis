@@ -17,4 +17,4 @@ Good luck with your study and hope that you enjoy this fantastic language!
 # Versions
 
 - 20180627: Python basics: Installation and variables.
-- 20180628: Basic calcuation.
+- 20180628: Basic calculation.
